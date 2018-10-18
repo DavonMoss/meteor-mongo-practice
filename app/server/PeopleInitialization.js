@@ -32,3 +32,5 @@ if (people.find().count() === 0) {
     city: "Naples"
   });
 }
+
+// people.insert({ animal: "Dog", name: "Koa", city: "Pearl City" });
